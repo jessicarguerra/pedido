@@ -1,7 +1,20 @@
-
-.button-01{
-    background-color: aquamarine;
+body{
+    font-size: 2rem;
+    color: blueviolet;
+    background-color: rgb(251, 255, 195);
 }
-.butaaa{
+a{
+    text-decoration: none;
+}
+.button-yes{
+    background-color: aquamarine;
+    padding: 1rem;
+    border-radius: 2rem;
+    border: 1px solid rgb(49, 219, 163);
+}
+.button-yestoo{
     background-color: pink;
+    border-radius: 4rem;
+    padding: 1rem;
+    border: 1px solid rgb(250, 109, 132);
 }
